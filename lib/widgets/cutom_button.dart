@@ -11,14 +11,14 @@ final String txt;
     return MaterialButton(
                    onPressed: onPressed,
                     padding: EdgeInsets.symmetric(horizontal: 24, vertical: 10),
-                    color: Color(0xff14B8A6),
+                    color: Theme.of(context).primaryColor,
                     shape: RoundedRectangleBorder(
                       borderRadius: BorderRadius.circular(10),
                     ),
                     child: Text(
                     txt,
                       style: TextStyle(
-                        color: Colors.white,
+                        color: Theme.of(context).primaryColorDark,
                         fontSize: ScreenSize.height * 0.022,
                       ),
                     ),

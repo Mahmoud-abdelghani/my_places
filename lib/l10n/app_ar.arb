@@ -1,0 +1,22 @@
+{
+  "@@locale": "ar",
+  "appTitle": "أماكني",
+  "searchPlaces": "البحث عن أماكن....",
+  "settings": "الإعدادات",
+  "theme": "المظهر",
+  "language": "اللغة",
+  "delete": "حذف",
+  "myPlacesJournal": "سجل أماكني",
+  "addNewPlace": "إضافة مكان جديد",
+  "addPlaceImage": "إضافة صورة المكان",
+  "addPlaceName": "إضافة اسم المكان",
+  "placeName": "اسم المكان",
+  "addPlaceDescription": "إضافة وصف المكان",
+  "placeDescription": "وصف المكان",
+  "addPlaceCategory": "إضافة تصنيف المكان",
+  "getCurrentLocation": "تحديد الموقع الحالي",
+  "savePlace": "حفظ المكان",
+  "noPlacesSavedYet": "لم يتم حفظ أي أماكن بعد",
+  "savePhotosNotesAndLocations": "احفظ الصور والملاحظات والمواقع لأماكنك المفضلة.",
+  "addYourFirstPlace": "أضف مكانك الأول"
+}

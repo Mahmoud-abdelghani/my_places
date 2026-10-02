@@ -26,16 +26,16 @@ class CustomField extends StatelessWidget {
           }
           return null;
         },
-        style: TextStyle(color: Colors.white),
+        style: TextStyle(color: Theme.of(context).primaryColorDark),
         minLines: minLines,
         maxLines: 3,
         decoration: InputDecoration(
           filled: true,
-          fillColor: Color(0xff1E293B4D),
+          fillColor: Theme.of(context).appBarTheme.backgroundColor,
           hintText: txt,
           hintStyle: TextStyle(color: Colors.grey),
           focusedBorder: OutlineInputBorder(
-            borderSide: BorderSide(color: Color(0xff14B8A6)),
+            borderSide: BorderSide(color:Theme.of(  context).primaryColor),
             borderRadius: BorderRadius.circular(10),
           ),
           errorBorder: OutlineInputBorder(

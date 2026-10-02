@@ -1,0 +1,22 @@
+{
+  "@@locale": "en",
+  "appTitle": "My Places",
+  "searchPlaces": "Search Places....",
+  "settings": "Settings",
+  "theme": "Theme",
+  "language": "Language",
+  "delete": "Delete",
+  "myPlacesJournal": "My Places Journal",
+  "addNewPlace": "Add New Place",
+  "addPlaceImage": "Add place image",
+  "addPlaceName": "Add place Name",
+  "placeName": "Place Name",
+  "addPlaceDescription": "Add place discription",
+  "placeDescription": "Place discription",
+  "addPlaceCategory": "Add place category",
+  "getCurrentLocation": "Get Current Location",
+  "savePlace": "Save Place",
+  "noPlacesSavedYet": "No places saved yet",
+  "savePhotosNotesAndLocations": "Save photos, notes, and locations of your favorite spots.",
+  "addYourFirstPlace": "Add your first place"
+}
